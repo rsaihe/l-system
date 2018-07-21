@@ -1,5 +1,5 @@
 # l-system
-Renders fractal patterns using L-systems with Python's turtle graphics.
+Renders fractal patterns using L-systems and Python's turtle graphics.
 
 Use `$ python3 lsys.py -h` for help with using the command line tool.
 
